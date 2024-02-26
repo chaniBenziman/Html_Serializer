@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Html_Serializer", "Html_Serializer\Html_Serializer.csproj", "{DA4B7FDF-23CC-4E1A-9940-F04CF0BD6C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4B7FDF-23CC-4E1A-9940-F04CF0BD6C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4B7FDF-23CC-4E1A-9940-F04CF0BD6C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4B7FDF-23CC-4E1A-9940-F04CF0BD6C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4B7FDF-23CC-4E1A-9940-F04CF0BD6C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C6BC969-D6FC-4B01-9776-487E6DE366FE}
+	EndGlobalSection
+EndGlobal
